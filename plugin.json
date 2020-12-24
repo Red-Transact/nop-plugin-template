@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Test",
+  "FriendlyName": "Test plugin",
+  "SystemName": "TestPlugin",
+  "Version": "1",
+  "SupportedVersions": [ "4.30" ],
+  "Author": "RT",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.TestPlugin.dll",
+  "Description": "This plugin will do testings"
+}
