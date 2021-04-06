@@ -19,9 +19,9 @@ namespace Nop.Plugin.TestPlugin
             return $"{_webHelper.GetStoreLocation()}Admin/TestPlugin/Configure";
         }
 
-        public override void Install()
-        {
-            base.Install();
-        }
+        //public override void Install()
+        //{
+        //    base.Install();
+        //}
     }
 }

@@ -50,14 +50,14 @@ namespace Nop.Plugin.TestPlugin.Controllers
             //newAtt.Name = "test123";
             //_attributeService.InsertProductAttribute(newAtt);
 
-            var result = _productService.SearchProducts(
-                categoryIds: null,
-                pageSize: 1,
-                showHidden: true
-            );
+            //var result = _productService.SearchProducts(
+            //    categoryIds: null,
+            //    pageSize: 1,
+            //    showHidden: true
+            //);
 
-            var c1 = _customerService.GetCustomerByEmail("admin@admin.com");
-            var r2 = _cartService.GetShoppingCart(c1);
+            //var c1 = _customerService.GetCustomerByEmail("admin@admin.com");
+            //var r2 = _cartService.GetShoppingCart(c1);
 
             return Ok("okay");
             return View("~/Plugins/Nop.Plugins.TestPlugin/Views/Configure.cshtml");
