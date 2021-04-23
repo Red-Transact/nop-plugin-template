@@ -3,7 +3,7 @@
   "FriendlyName": "Test plugin",
   "SystemName": "TestPlugin",
   "Version": "1",
-  "SupportedVersions": [ "4.30" ],
+  "SupportedVersions": [ "4.40" ],
   "Author": "RT",
   "DisplayOrder": 1,
   "FileName": "Nop.Plugin.TestPlugin.dll",
